@@ -1,4 +1,4 @@
-import Hero from "../components/hero";
+import Hero from "../components/Hero";
 import TeamStanding from "../components/TeamStanding";
 import StatsSection from "../components/StatsSection";
 export default function HomePage() {
